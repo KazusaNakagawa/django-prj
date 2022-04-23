@@ -8,7 +8,7 @@
 
 ## Note
 
-* docs/
+* [start_prj.md](docs/start_prj.md)
 
 ## Ref
 
