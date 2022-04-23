@@ -1,6 +1,6 @@
 ## Start Project
 
-1. Creat project
+### 1. Creat project
 
 - admin: <site name> --> backend
 
@@ -8,7 +8,7 @@
 docker-compose run web django-admin startproject backend .
 ```
 
-2. Creat app
+### 2. Creat app
 
 2-1. appname: note
 
@@ -29,7 +29,7 @@ note/
 
 2-2. create `urls.py`
 
-3. migrate
+### 3. migrate
 
 ```bash
 $ python manage.py migrate
@@ -58,7 +58,7 @@ Running migrations:
   Applying sessions.0001_initial... OK
 ```
 
-4. [Creating an admin user](https://docs.djangoproject.com/en/4.0/intro/tutorial02/#creating-an-admin-user)
+### 4. [Creating an admin user](https://docs.djangoproject.com/en/4.0/intro/tutorial02/#creating-an-admin-user)
 
 4-1. command
 ```bash
@@ -77,11 +77,11 @@ Superuser created successfully.
 
 4-2. input form & push login
 
-  [<img src="./img/admin_login.png" width="300"/>]()
+  [<img src="./img/admin_login.png" width="400"/>]()
 
 4-3. Dashbord
 
-  [<img src="./img/admin_dashbord.png" width="300"/>]()
+  [<img src="./img/admin_dashbord.png" width="400"/>]()
 
 ## Ref
 
