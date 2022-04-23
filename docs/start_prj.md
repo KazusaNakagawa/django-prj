@@ -77,11 +77,11 @@ Superuser created successfully.
 
 4-2. input form & push login
 
-  [<img src="./img/admin_login.png" width="400"/>]()
+  [<img src="./img/admin_login.png" width="500"/>](./img/admin_login.png)
 
 4-3. Dashbord
 
-  [<img src="./img/admin_dashbord.png" width="400"/>]()
+  [<img src="./img/admin_dashbord.png" width="600"/>](./img/admin_login.png)
 
 ## Ref
 
